@@ -1,5 +1,5 @@
 class Person
-  attr_accessor :partner, :name
+  attr_accessor  :name , :partner
 
   def initialize(name)
     @name = name
